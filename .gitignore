@@ -1,0 +1,14 @@
+# Ignore virtual environment
+.venv/
+env/
+
+# Ignore database
+*.sqlite3
+
+# Python compiled files
+*.pyc
+__pycache__/
+
+# IDE/Editor settings
+.vscode/
+.idea/
